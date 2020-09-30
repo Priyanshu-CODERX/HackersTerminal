@@ -109,7 +109,7 @@ def loadingScr():
 		time.sleep(0.3)
 		print(load)
 
-#def stegno():
+def stegno():
 	print("Stegnography")
 
 def bruteFrc():
